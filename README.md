@@ -40,15 +40,7 @@ The prototype combines ESP32-based sensing with an ESP32-CAM and an Edge Impulse
 - `docs/` — Project report
 - `libraries/` — Dependency and installation instructions
 
-## Limitations and Safety
 
-This is an academic prototype. Object detection performance depends on the trained model, lighting, camera positioning, and hardware constraints. The system should not be used as a person's sole mobility aid or as a substitute for a white cane, guide dog, or other established mobility support.
-
-## Team Members
-
-- Damini Katakam
-- Karthik Selvaraj
-- Narisipuram Tejus Kumar
 
 ## Project Gallery
 
@@ -84,7 +76,12 @@ This is an academic prototype. Object detection performance depends on the train
 - Edge Impulse for object detection
 - Embedded C/C++ and hardware integration
 
+## Limitations and Safety
+
+This is an academic prototype. Object detection performance depends on the trained model, lighting, camera positioning, and hardware constraints. The system should not be used as a person's sole mobility aid or as a substitute for a white cane, guide dog, or other established mobility support.
+
 ## Team Members
+
 - Damini Katakam
 - Karthik Selvaraj
 - Narisipuram Tejus Kumar
